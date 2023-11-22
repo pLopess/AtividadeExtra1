@@ -34,14 +34,3 @@ public class Exer9 {
     }
 
 }
-/*
-* Digite a nota 1: 85
-* Digite o peso da nota 1: 0.3
-* 
-* Digite a nota 2: 78
-* Digite o peso da nota 2: 0.4
-* 
-* Digite a nota 3: 92
-* Digite o peso da nota 3: 0.3
-A média ponderada é 86.2, que corresponde à classificação B.
-*/
